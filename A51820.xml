@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable Sir Robert Clayton, Lord Mayor of London, at Guild-Hall-Chappel, December 7, 1679 by Thomas Mannyngham ...</title>
+            <author>Manningham, Thomas, 1651?-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51820</idno>
+            <idno type="STC">Wing M502</idno>
+            <idno type="STC">ESTC R6536</idno>
+            <idno type="EEBO-CITATION">12636922</idno>
+            <idno type="OCLC">ocm 12636922</idno>
+            <idno type="VID">64903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64903)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable Sir Robert Clayton, Lord Mayor of London, at Guild-Hall-Chappel, December 7, 1679 by Thomas Mannyngham ...</title>
+                  <author>Manningham, Thomas, 1651?-1722.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Later issued as the first of the Six sermons preached on the occasions following ... 1687.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CIXX, 67 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64903:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the Right Honourable Sir <hi>ROBERT CLAYTON</hi> Lord Mayor OF LONDON, AT GUILD-HALL-Chappel, <hi>December</hi> 7. 1679.</p>
+            <p>By <hi>THOMAS MANNYNGHAM,</hi> M.A. and Fellow of <hi>New-Colledge</hi> in <hi>Oxford.</hi>
+            </p>
+            <p>
+               <hi>Printed by the Lord Mayor's eſpecial Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Crooke</hi> at the <hi>Green Dragon</hi> without Temple-bar. 1680.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64903:2"/>
+            <pb facs="tcp:64903:2"/>
+            <head>TO The Right Honourable Sir <hi>ROBERT CLAYTON,</hi> Lord Mayor of <hi>London</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable:</salute>
+            </opener>
+            <p>IT is maliciouſly obſerv'd by a late pre<g ref="char:EOLhyphen"/>tender to Hiſtory, that <hi>London</hi> has a
+<hi>great Belly,</hi> but no <hi>Taſte:</hi> whereas its <hi>Refinement</hi> is of ſuch Eminency, and its <hi>Judgment</hi> ſo accurate as well in <hi>Religious</hi> as <hi>Civil</hi> Concerns, that it muſt be held for no <hi>ordinary atchievement</hi> to be Maſter of any
+<hi>Diſcourſe</hi> that may riſe up equal to its <hi>Approbation,</hi> and ſtrike
+<hi>gratefully</hi> on its <hi>palate:</hi> And I am per<g ref="char:EOLhyphen"/>ſwaded, that no man who enters on
+<hi>this Stage,</hi> will ever find any juſt occaſion to fear, leſt <hi>too much Learning</hi> ſhould make him <hi>a Barbarian</hi> to his <hi>Auditory.</hi> How this
+<pb facs="tcp:64903:3"/>
+               <hi>preſent Sermon,</hi> in the general, has been received, I ought not to acquaint the world; 'tis <hi>a ſufficient recommendation,</hi> that it has been acceptable to your Lordſhips <hi>bet<g ref="char:EOLhyphen"/>ter Judgment,</hi> and has made the Author unexpectedly known to <hi>your Favour:</hi> For whilſt I paid my <hi>your Favour:</hi> For whilſt I paid my <hi>Reverence</hi> to <hi>your Dignity,</hi> I found a <hi>Friendſhip</hi> from <hi>your Perſon. My Lord,</hi> I eſteem it an extraordinary Felicity, that my <hi>firſt Obli<g ref="char:EOLhyphen"/>gations</hi> are ſo well
+<hi>plac'd,</hi> that it may be ſaid hereafter, that I <hi>Lived</hi> under <hi>your Conſulſhip,</hi> and that all my <hi>future Gratitude</hi> may henceforth run in <hi>one Channel. My Lord,</hi> I can ſcarce refrain from publiſhing <hi>very great things of your Honour,</hi> but that I think this is no <hi>fit Paper</hi> wherein to attempt <hi>your Cha<g ref="char:EOLhyphen"/>racter;</hi> and beſides, your Lordſhips <hi>real Worth</hi> would go near to ſpoil the beſt <hi>Ora<g ref="char:EOLhyphen"/>tory:</hi> for <hi>ſolid Virtue,</hi> like <hi>a natural Rock,</hi> has always ſomething <hi>maſſy,</hi> and <hi>bravely rough,</hi> which the beſt <hi>poliſh<g ref="char:EOLhyphen"/>ings</hi>
+               <pb facs="tcp:64903:3"/>of <hi>Art</hi> would but <hi>deform:</hi> Some <hi>counterfeit,</hi> or imperfect Virtues, might re<g ref="char:EOLhyphen"/>ceive a ſtrange Advantage from <hi>Invention</hi> and <hi>Language;</hi> ſuch might do well in <hi>Landskip,</hi> to be viewed at a <hi>Diſtance;</hi> but <hi>a true Eminency</hi> is better <hi>ſhew'd,</hi> than <hi>deſcrib'd.</hi>
+            </p>
+            <p>Perhaps I am come abroad in a <hi>falſe Sea<g ref="char:EOLhyphen"/>ſon,</hi> where the beſt proſpect which can be taken is terminated in a ſullen cloud of <hi>doubtful affairs;</hi> however, this is no diſcouragement in the leaſt; for altho a large meaſure of <hi>Po<g ref="char:EOLhyphen"/>litical Divination</hi> may be requiſite to make a man <hi>cunning,</hi> yet a <hi>ſmall fore<g ref="char:EOLhyphen"/>ſight</hi> will ſerve to make him <hi>honeſt:</hi> And every one may rationally preſume, that he, who without <hi>any worldly Intereſt,</hi> loves and clings to a <hi>perſecuted Church,</hi> loves it <hi>as a Church;</hi> it being eaſie to di<g ref="char:EOLhyphen"/>ſtinguiſh a perſon of <hi>Naked Valour,</hi> and an
+<hi>unbenefic'd Affection,</hi> from ſuch, who grow <hi>reſolute</hi> onely from a
+<hi>Confi<g ref="char:EOLhyphen"/>dence</hi> in their <hi>Armour;</hi> or who (like
+<pb facs="tcp:64903:4"/>the <hi>Tragoedian,</hi> that lamented the <hi>ruine</hi> of this <hi>Country</hi> over the <hi>dead Bones</hi> and <hi>Coffin</hi> of his <hi>Son</hi>) caſt an earneſt and
+<hi>private eye</hi> on their <hi>dear Prefer<g ref="char:EOLhyphen"/>ments,</hi> and then are <hi>Nationally affli<g ref="char:EOLhyphen"/>cted.</hi> I never found my <hi>Pen</hi> more <hi>ungo<g ref="char:EOLhyphen"/>vernable,</hi> or a greater Temptation to write on, than at preſent. But leſt the <hi>Epiſtle Dedicatory</hi> (as it uſually happens) ſhould prove the <hi>ſtrongeſt Prejudice</hi> againſt the <hi>enſuing Diſcourſe,</hi> I ſhall beg leave to ſubſcribe my ſelf,</p>
+            <closer>
+               <salute>Right Honourable,</salute>
+               <signed>
+                  <hi>Your Lordſhip's moſt obedient Servant,</hi> Thomas Mannyngham.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:64903:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 119. v. 67.</hi>
+                  </bibl>
+                  <p>Before I was afflicted I went aſtray; but now have I kept thy word.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lot or Diſtribution of <hi>Afflictions,</hi> eſpecially on the <hi>Good</hi> and
+<hi>Wiſe,</hi> which by ma<g ref="char:EOLhyphen"/>ny of the <hi>Heathens</hi> was urged as a grand <hi>argument</hi> againſt <hi>Pro<g ref="char:EOLhyphen"/>vidence,</hi> and which ſerv'd to countenance either their <hi>total denyal</hi> of it, or their <hi>Mur<g ref="char:EOLhyphen"/>murings</hi> againſt it, is now amongſt us
+<hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> made the great <hi>conformation,</hi> as of its <hi>Exiſtence,</hi> ſo of its <hi>Juſtice</hi> and <hi>Goodneſs</hi> too; ſince our Holy <hi>Goſpel</hi> has aſſur'd us, that <hi>ſuf<g ref="char:EOLhyphen"/>fering</hi> for <hi>righteouſneſs ſake Martydom,</hi> &amp; the <hi>ſcandal</hi> of the <hi>Croſs,</hi> are promis'd and<note n="*" place="margin">Phil.
+1.29.</note> 
+               <hi>gra<g ref="char:EOLhyphen"/>ciouſly appointed</hi> for the <hi>priviledge, triumph,</hi> and
+<hi>glory</hi> of the <hi>Heroical Chriſtian.</hi> And al<g ref="char:EOLhyphen"/>beit thoſe <hi>ſeverer bleſſings,</hi> which were ſo proper for the <hi>Infancy</hi> of the Church, requi<g ref="char:EOLhyphen"/>ring a moſt ſtrict <hi>Diſcipline,</hi> and glorious <hi>Ex<g ref="char:EOLhyphen"/>amples</hi>
+               <pb n="2" facs="tcp:64903:5"/>for a ſtanding <hi>Rule</hi> and <hi>Encouragement</hi> to
+<hi>Poſterity;</hi> and which were ſo remarkably verify'd in the immediate perſecutions of the <hi>Apoſtles,</hi> and the ſucceeding Centuries of <hi>Martyrs:</hi> I ſay, albeit thoſe more <hi>rigorous mercies</hi> ſeem'd now to have <hi>expir'd</hi> in theſe our days, ſince our Emperours are become <hi>Chriſtian,</hi> and our Kings <hi>nurſing Fathers;</hi> ſince <hi>Credit</hi> and <hi>Security</hi> are the <hi>ornament</hi> and <hi>guard</hi> of
+<hi>Piety, Affluence</hi> and <hi>Honours</hi> the <hi>Na<g ref="char:EOLhyphen"/>tional</hi> rewards of <hi>Virtue</hi> and <hi>Religion;</hi> yet notwithſtanding all theſe <hi>ſmooth Appearances,</hi> theſe hopes and flatteries of a new Paradiſe, and a Triumphant Church, the Goſpel muſt be fulfill'd; and<note n="*" place="margin">Luke 14.27.</note> whoſoever beareth not his
+<hi>Croſs,</hi> cannot be a <hi>true Diſciple,</hi> a true <hi>follow<g ref="char:EOLhyphen"/>er</hi> of
+<hi>Chriſt;</hi> but every perſon who has en<g ref="char:EOLhyphen"/>ter'd himſelf into the <hi>Covenant</hi> of
+<hi>ſufferings,</hi> muſt with all humble reſignation wait, and with patience undergo his<note n="*" place="margin">Rom. 8.29.</note> 
+               <hi>predeſtination</hi> to
+<hi>Afflictions.</hi>
+            </p>
+            <p>Now the <hi>reaſon</hi> and <hi>juſtice</hi> of this proceed<g ref="char:EOLhyphen"/>ing with <hi>wiſe</hi> and
+<hi>virtuous</hi> men, has conti<g ref="char:EOLhyphen"/>nually tortur'd the enquiries of the <hi>Learned</hi> through all
+<hi>times</hi> and <hi>Sects,</hi> although with very different <hi>events;</hi> rendring the
+<hi>Epicure<g ref="char:EOLhyphen"/>an</hi>
+               <pb n="3" facs="tcp:64903:5"/>careleſs and independant on <hi>Providence,</hi> the <hi>Stoic</hi> ſententious and <hi>witty,</hi> but the true Chriſtian <hi>wiſe</hi> and <hi>humble,</hi> who conſiders that the beſt man on earth is ſtill a grievous <hi>ſinner,</hi> and highly deſerving the ſevereſt <hi>Temporal Afflictions;</hi> that according to the <hi>Law</hi> of
+<hi>ra<g ref="char:EOLhyphen"/>tional nature,</hi> the <hi>wicked</hi> are in a great mea<g ref="char:EOLhyphen"/>ſure, without the immediate interpoſals of <hi>Omnipotence,</hi> permitted the <hi>freedom</hi> of their <hi>wills,</hi> a dominion over their <hi>ordinary actions,</hi> and conſequently the <hi>moleſtation</hi> of others; who, with a pious confidence, expects a mighty recompence in the next world, at the
+<hi>revelation</hi> of <hi>righteous judgment;</hi> who glo<g ref="char:EOLhyphen"/>ries to follow the<note n="*" place="margin">Heb. 2.10.</note> 
+               <hi>Captain</hi> of his <hi>Salvation,</hi> made <hi>perfect</hi> and conſecrated through <hi>ſuffe<g ref="char:EOLhyphen"/>rings;</hi> and rejoyces with St. <hi>Paul</hi> to compleat and<note place="margin">Col. 1.24.</note> fill up in his fleſh the remainders and relicks of Chriſts ſufferings; as if every Chriſtian were to be in ſome meaſure even
+<hi>crucify'd</hi> for <hi>himſelf.</hi>
+            </p>
+            <p>Theſe are ſome of thoſe moſt <hi>powerful conſiderations</hi> which may ſufficiently evince the <hi>juſtice</hi> and the <hi>neceſſity</hi> of our <hi>Afflictions;</hi> but the Royal Pſalmiſt in my <hi>Text</hi> preſents us with a further <hi>argument,</hi> even of their
+<pb n="4" facs="tcp:64903:6"/>
+               <hi>goodneſs</hi> too, in relation to thoſe manifold <hi>advantages</hi> which they bring to <hi>Religion.</hi> And that,</p>
+            <p n="1">I. As they reſpect every <hi>Individual,</hi> and may be called <hi>Perſonal Afflictions.</hi>
+            </p>
+            <p n="2">II. As they reſpect a <hi>Church</hi> and <hi>Nation,</hi> and may be called <hi>Publick Calamities.</hi>
+            </p>
+            <p>And firſt, as they reſpect every <hi>Individual,</hi> either the <hi>Wicked</hi> or the
+<hi>Righteous;</hi> being often found the <hi>beſt expedients</hi> to <hi>convert</hi> the
+<hi>one</hi> from their <hi>vicious Habits,</hi> to confirm and improve the <hi>other</hi> in their
+<hi>courſe</hi> of <hi>Piety.</hi>
+            </p>
+            <p>And firſt, <hi>Afflictions</hi> are often found the <hi>beſt Expedients</hi> to convert the
+<hi>wicked</hi> from their <hi>vicious Habits.</hi>
+            </p>
+            <p>It is reported of<note n="*" place="margin">Porphy<g ref="char:EOLhyphen"/>rius <hi>in vitâ</hi> Pythag.</note>
+               <hi>Pythagoras,</hi> that he could tame <hi>wild beaſts</hi> with the <hi>Morality</hi> of his
+<hi>pre<g ref="char:EOLhyphen"/>ſence,</hi> and ſuſpend their <hi>natural horror</hi> with a <hi>Precept:</hi> but the commanding part of the world has long ſince loſt this <hi>ſecret</hi> of
+<hi>Re<g ref="char:EOLhyphen"/>ſtraint,</hi> even in more proportionate objects: every <hi>bold ſinner</hi> is become more Magical in his conſtitution, than that <hi>hardned German Sennertus</hi> writes of; his
+<hi>obſtinacy</hi> has ſteel'd his very infirmities into <hi>Armour;</hi> ſo that the ſharpeſt <hi>reproofs</hi> men dart at him, either <hi>re<g ref="char:EOLhyphen"/>flect,</hi>
+               <pb n="5" facs="tcp:64903:6"/>or <hi>drop ſhort,</hi> like a <hi>charm'd Bullet:</hi> if their
+<hi>Invectives</hi> are poignant and ſevere, he ſets himſelf on his guard, and holds thoſe ſins the <hi>cloſer</hi> about him, with which he is <hi>cover'd</hi> as with a
+<hi>garment;</hi> if their <hi>inſinuati<g ref="char:EOLhyphen"/>ons</hi> are gentle, milde, and beſeeching, they fall like the <hi>Dew</hi> on the <hi>Rocks,</hi> which onely ſerves to nouriſh thoſe
+<hi>Serpents</hi> that inhabit them; for he makes their <hi>indearments</hi> but <hi>forms</hi> to offer up his <hi>Luſts</hi> in, and gathers <hi>Courtſhip</hi> from their <hi>phraſe:</hi> Grant that he hears them<note n="*" place="margin">Mark 6.20.</note> 
+               <hi>gladly</hi> for the
+<hi>newneſs</hi> of their Topic, or becomes<note n="*" place="margin">Acts 26.28.</note>
+               <hi>almoſt</hi> a Chriſtian by the <hi>terrour</hi> of their Eloquence; yet will his next
+<hi>diſorder</hi> ſo ſcatter thoſe diſcourſes, that they uſually prove no more beneficial to him, than the quick moments of <hi>Lightning</hi> to a Tra<g ref="char:EOLhyphen"/>veller in the night, who before he advan<g ref="char:EOLhyphen"/>ces one ſtep forward, has loſt his <hi>direction,</hi> and is onely more
+<hi>amazedly</hi> relaps'd into his <hi>former darkneſs.</hi>
+            </p>
+            <p>And how can it <hi>naturally</hi> be otherwiſe, when the whole ſyſtem of his
+<hi>thoughts</hi> and <hi>inclinations,</hi> the great bent of his <hi>nature</hi> ſtands
+<hi>contradictory</hi> to Religion? how can <hi>perſwaſi<g ref="char:EOLhyphen"/>ons</hi> work on a <hi>petrify'd heart,</hi> or the<note n="*" place="margin">1 Cor. 1.21.</note> 
+               <hi>fooliſh<g ref="char:EOLhyphen"/>neſs</hi>
+               <pb n="6" facs="tcp:64903:7"/>of preaching reform the <hi>chayr</hi> of the <hi>ſcornful?</hi> his daily
+<hi>voluptuouſneſs</hi> corrupts his <hi>natural Conſcience,</hi> extinguiſhes his
+<hi>firſt Prin<g ref="char:EOLhyphen"/>ciples,</hi> and afterwards draws a <hi>thick vail</hi> be<g ref="char:EOLhyphen"/>fore his
+<hi>underſtanding:</hi> for whilſt his <hi>eyes</hi> are careſs'd with the viſits and interviews of <hi>beau<g ref="char:EOLhyphen"/>ty</hi> and <hi>dreſs,</hi> his <hi>Tympanum</hi> dancing to the ſoft Vibrations, the delicate Modulations of <hi>Harmony;</hi> whilſt his <hi>Tongue</hi> and Palate, with their exquiſite Membranes, lye bath'd in all the variety of <hi>Luxury,</hi> and a ſtudied Epi<g ref="char:EOLhyphen"/>curiſm; his <hi>Smell</hi> incens'd with the coſtly ſacrifice of <hi>Odours,</hi> every return of breath bringing with it the Treaſures of <hi>Arabia:</hi> whilſt, I ſay, the
+<hi>buſie Machin</hi> is in this Tumult of <hi>ſenſual Extaſie,</hi> this Tyranny of delight, how deſart, how neglected muſt the Cells of <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi> lye? In this Riot of the Senſes, how ſhall he attend to the <hi>ſtill voice</hi> of <hi>Judgment</hi> and
+<hi>Conſcience?</hi> Or how ſhall he perceive the little <hi>ſpiritual appulſes</hi> of
+<hi>reflective</hi> thoughts?</p>
+            <p>Such <hi>Methods</hi> are for the <hi>Ingenuous</hi> and the Tractable, the humble and the relenting Sinner; but when either the powers of the Soul lye diſſolved in
+<hi>Proſperity,</hi> or <hi>Contumacy</hi> has skinn'd the Tumour, then can no other
+<pb n="7" facs="tcp:64903:7"/>diſcipline prove effectual, than that which <hi>ſacrifices</hi> unto health, that which <hi>ſtabs</hi> the Im<g ref="char:EOLhyphen"/>poſthume. Accordingly the Royal Pſalmiſt having ſeriouſly conſidered the <hi>blaſphemies</hi> of the wicked, intreats the Lord to take their <hi>Reformation</hi> into his <hi>own hands,</hi> to ariſe with ſudden vengeance, and<note n="*" place="margin">Pſal. 74.23.</note> 
+               <hi>maintain</hi> his <hi>own cauſe.</hi> An eminent example of this <hi>proceed<g ref="char:EOLhyphen"/>ing,</hi> we may read in the <hi>Converſion</hi> of St.
+<hi>Paul, Acts</hi> the 9th, who whilſt he was <hi>raging</hi> throughout all the
+<hi>Synagogues</hi> of <hi>Damaſcus,</hi> and <hi>breathing</hi> out <hi>ſlaughters</hi> againſt the Diſ<g ref="char:EOLhyphen"/>ciples of our Lord, was <hi>ſtruck down</hi> into an <hi>Apoſtle</hi> by a voice from Heaven; had his <hi>ma<g ref="char:EOLhyphen"/>lice</hi> purged away, by the <hi>Lightning</hi> that ſhone round him; and from his <hi>blindneſs,</hi> recover'd a moſt glorious <hi>Illumination:</hi> for as ſoon as his <hi>ſcales</hi> had dropt from his <hi>eyes,</hi> he from thenceforth beheld nothing but <hi>Chriſt</hi> and him <hi>crucified.</hi>
+            </p>
+            <p>And although we cannot promiſe that the Lord will appear to every <hi>deſperate ſinner</hi> in ſuch a <hi>Miracle,</hi> ſuch a <hi>mercy</hi> of <hi>conſuming fire;</hi> yet doubtleſs before the <hi>full meaſure</hi> of their iniquity is <hi>compleated,</hi> there are never wanting to the wicked ſome ſuch <hi>ſeaſons</hi> of
+<pb n="8" facs="tcp:64903:8"/>
+               <hi>Afflictions,</hi> as may create in them <hi>ſerious thoughts,</hi> and furniſh their mindes with a <hi>true judgment</hi> of things; and they are never per<g ref="char:EOLhyphen"/>mitted to<note n="*" place="margin">Matth. 26.45.</note> 
+               <hi>ſleep on</hi> till the whole <hi>Agony</hi> of <hi>Divine goodneſs</hi> is over.</p>
+            <p>How conſpicuous was this <hi>method</hi> in the Antient <hi>Excommunications?</hi> when the ſinners were not onely excluded from the <hi>Service</hi> and <hi>Sacraments</hi> of the Church, but were delivered over to the <hi>buffetings of Satan,</hi> to ſickneſſes and torments of Minde, to terrifying Dreams and horrid Illuſions: Theſe were the <hi>ſeveri<g ref="char:EOLhyphen"/>ties</hi> that reduced them to a <hi>captivity of thought,</hi> to poverty of ſpirit, to their <hi>whole years</hi> of <hi>proſtration,</hi> and to the humbling of themſelves through all the
+<hi>degrees of Penance.</hi>
+            </p>
+            <p>The <hi>obſtinate</hi> and the <hi>ſenſual</hi> muſt have the Law <hi>again</hi> delivered to them in <hi>darkneſs, Clouds,</hi> and <hi>dreadful Thunders;</hi> and when the
+<hi>terrours</hi> of the Lord ſhall have <hi>open'd</hi> their ears to <hi>diſcipline,</hi> and ſet <hi>ſcourges</hi> over their hearts, then may the <hi>ſtanding Miniſtry</hi> take effect, and the <hi>arts of perſwaſion</hi> enter; for ſo we have read of a <hi>deaf</hi> perſon, who as eaſi<g ref="char:EOLhyphen"/>ly perceived the leaſt <hi>whiſper</hi> of a voice whilſt a
+<hi>drum</hi> has beaten at his <hi>ear.</hi>
+            </p>
+            <pb n="9" facs="tcp:64903:8"/>
+            <p>That<note n="*" place="margin">Luke 16.19.</note> 
+               <hi>rich man</hi> in the Goſpel (as we may probably gueſs from his <hi>delicious fare</hi>) ſcarce ever once <hi>thought of Heaven,</hi> till he lifted up his eyes in <hi>Hell;</hi> whereas if he had received but a <hi>ſmall portion</hi> of thoſe <hi>Torments</hi> in his <hi>life-time,</hi> he might from hence have taken
+<hi>a ſurer proſpect</hi> of Heaven, through a <hi>leſs Chaſm,</hi> and have diſcovered a place for <hi>himſelf</hi> in <hi>Abraham</hi>'s boſome.</p>
+            <p>Thoſe <hi>young Courtiers</hi> of <hi>Abdera,</hi> who went diſtracted from <hi>the Andromeda</hi> of <hi>Euripides,</hi> ran raving about the Town a <hi>whole Summer,</hi> Acting and Reciting in every corner of the Streets, with all the <hi>Rabies</hi> of the Play in their Mouths; and notwithſtanding there were made ſeveral applications for their <hi>Re<g ref="char:EOLhyphen"/>covery,</hi> continued on their <hi>frantick Jollity,</hi> till the following <hi>Winter</hi> ſtarved their Poetick Fury, and cool'd them into <hi>Common Senſe.</hi>
+            </p>
+            <p>A Bed of <hi>Sickneſs</hi> may <hi>reform</hi> that man, whom the <hi>Law,</hi> the
+<hi>Prophets,</hi> the <hi>Goſpel,</hi> nay, and <hi>one riſen from the dead,</hi> would never have <hi>reclaimed:</hi> for, when having danced through various Scenes of <hi>falſe pleaſure</hi> and <hi>wild mirth,</hi> and drawing near to the <hi>last Act</hi> of that
+<hi>Fable, Life,</hi> his <hi>diſtemper</hi> ſhall then chance to
+<pb n="10" facs="tcp:64903:9"/>give him the <hi>dreaded leiſure</hi> of his <hi>thoughts,</hi> how quickly will the <hi>Goſpel</hi> break in upon his <hi>retirement,</hi> and ſet all its
+<hi>contempts,</hi> all its <hi>prophanations</hi> in array before him? how will his
+<hi>Objections</hi> againſt <hi>Revelation</hi>
+               <note n="*" place="margin">Exod. 15.15.</note> then
+<hi>melt</hi> away, like the <hi>Canaanites</hi> before <hi>Joſhua;</hi> and his ſtrong
+<hi>Scepticiſm</hi> grow ſickly, and con<g ref="char:EOLhyphen"/>ſume at the victorious appearance of <hi>Truth?</hi> how different will his <hi>Imaginations</hi> then be, from thoſe that were the entertainment of his <hi>hotter bravery,</hi> when his Conſtitution was Athletick, and his blood in all its boaſt and pride; when his <hi>vital Sulphur</hi> was ſtrong, and his <hi>Pulſe</hi> beat high within him; when in his proſperity he ſaid, That <hi>Vertue</hi> was a path too <hi>narrow</hi> for the <hi>Generous,</hi> onely a beaten way for the loaded Aſs; that <hi>deliberation</hi> was the <hi>cowardice</hi> of thought, <hi>Vice</hi> the <hi>exube<g ref="char:EOLhyphen"/>rancy</hi> of Parts, and
+<hi>Piety</hi> the <hi>wiſdom</hi> of the <hi>Spleen?</hi> But lo, now the long-reſiſted notion of a <hi>Deity</hi> breaks out and <hi>kindles</hi> upon him, it even <hi>haunts</hi> and perſecutes his reflections; 'tis about his paths and about his bed, and ſpies out all his ways: If his thoughts can<note n="*" place="margin">Pſal. 139. v. 8, 9, <hi>&amp;c.</hi>
+               </note> aſcend into <hi>Heaven,</hi> it is there; if they go down into <hi>Hell,</hi> it is there alſo; if they take
+<pb n="11" facs="tcp:64903:9"/>the Wings of the Morning, and remain in the uttermoſt parts of the
+<hi>Sea,</hi> even there they ſhall perceive the terrible works of the Lord, and his Wonders in the Deep; if per<g ref="char:EOLhyphen"/>adventure <hi>darkneſs</hi> covers him, yet behold, the Lord comes riding on that Cloud, and then even that darkneſs will be day: now will his long-abuſed <hi>Soul</hi> grow Conſcious of her <hi>own Immortality,</hi> and his Minde ſwell with <hi>inward Argument;</hi> 'twill be no more ac<g ref="char:EOLhyphen"/>counted a <hi>vapour in the noſtrils,</hi> or a <hi>little ſpark</hi> in the moving of the heart, but an e<g ref="char:EOLhyphen"/>ternal ſubject of <hi>Glory</hi> or
+<hi>Confuſion:</hi> now let him tell me, if he can, how raviſhing the <hi>Pſalms</hi> of
+<hi>David</hi> are, beyond the <hi>Odes</hi> of <hi>Pindar,</hi> or the <hi>Lunacy</hi> of
+<hi>Lucretius;</hi> how venerable a plain <hi>Homily</hi> appears, how full of <hi>Sacred Apothegm,</hi> how each Paragraph contains ſomewhat <hi>Infinite</hi> and <hi>Immenſe,</hi> and a <hi>Canaan diſtils</hi> from every <hi>Text!</hi>
+            </p>
+            <p>Wherefore if now, even in <hi>this his day,</hi> he will be obedient to the vaſt infuſions of his <hi>Converſion;</hi> if he will conſtantly main<g ref="char:EOLhyphen"/>tain the great Current of
+<hi>Repentance</hi> in its proper Channel, and with all <hi>Sincerity</hi> live up to the <hi>vows of his Sickneſs;</hi> then may he
+<pb n="12" facs="tcp:64903:10"/>be <hi>advanced</hi> into my <hi>Second part,</hi> and be numbred amongſt the
+<hi>Righteous,</hi> where <hi>Af<g ref="char:EOLhyphen"/>flictions</hi> are ſure to meet him again, though with
+<hi>another face;</hi> for as they are often found the <hi>beſt expedients</hi> to convert the
+<hi>obſti<g ref="char:EOLhyphen"/>nate</hi> from their <hi>vicious habits:</hi> So,</p>
+            <p>Secondly, They do <hi>confirm</hi> and heighten the <hi>Righteous</hi> in their
+<hi>courſe</hi> of <hi>Piety.</hi>
+            </p>
+            <p>He that conſiders the <hi>ſlow progreſs</hi> of <hi>ver<g ref="char:EOLhyphen"/>tuous Habits,</hi> the conſtant ſollicitations of the <hi>World</hi> without him, the continual Treache<g ref="char:EOLhyphen"/>ries of his <hi>own Nature</hi> within, the ſecret and malicious Inſinuations of all the <hi>Powers</hi> of
+<hi>Darkneſs</hi> that are round him, will readily confeſs, That the frequent and moſt inſtant admoniſhments of <hi>Afflictions,</hi> are the beſt <hi>Guards</hi> againſt Vice, the ſureſt ſtrong Hold againſt all thoſe <hi>Enemies;</hi> and that the <hi>Im<g ref="char:EOLhyphen"/>placable Canaanite</hi> onely <hi>defends</hi> that Land, that <hi>Iſrael</hi> againſt which he
+<hi>fights.</hi>
+            </p>
+            <p>We finde <hi>this ſtate</hi> of <hi>Afflictions</hi> almoſt every where recommended by the
+<hi>wiſer Hea<g ref="char:EOLhyphen"/>thens;</hi> which did not proceed from any Oſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntation of Wit, was not any Rant of Stoiciſm, but the reſult and ſobriety of their <hi>beſt Reaſoning,</hi> and ſprang from the cooler
+<pb n="13" facs="tcp:64903:10"/>Counſels of <hi>Philoſophy;</hi> conſonant to which, we meet with a moſt remarkable ſentence of <hi>Plato,</hi> in his<note n="*" place="margin">Plat. 2.
+<hi>Repub.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c.</note> Republicks, whereby you would imagine that he
+<hi>prophetically</hi> deſcrib'd one of our <hi>Primitive Martyrs;</hi> where he ſays, <hi>That to approve a man heartily righteous, he muſt be ſcourged, tortured, bound, have both his eyes burnt out; and in the cloſe, having ſuffered all evils, muſt be Impal'd or Crucify'd.</hi>
+            </p>
+            <p>Neither was it the <hi>affectation</hi> of the <hi>retir'd,</hi> or a melancholy Doctrine of the Cell, but grew a Maxime even amidſt the <hi>ſoftneſſes</hi> of <hi>Courts,</hi> and gained the Suffrage of the <hi>Noble</hi> too: Let one inſtance out of many ſuffice, and that of
+<hi>Philip</hi> King of <hi>Macedon,</hi> con<g ref="char:EOLhyphen"/>cerning whom prophane Hiſtory relates, that having in one day ſucceeded in three notable Enterprizes, he immediately implored the gods, that they would be ſo propitious to him, as to <hi>expiate</hi> that immoderate proſperity with ſome
+<hi>misfortune,</hi> and temper it into a draught fit for Mortality.</p>
+            <p>Moreover, what is more remarkable, 'twas chiefly from <hi>this State,</hi> that moſt of their e<g ref="char:EOLhyphen"/>minent <hi>Heroes</hi> were Canoniz'd; for after they had been broken and diſſipated here on earth
+<pb n="14" facs="tcp:64903:11"/>by vaſt <hi>Calamities,</hi> then were they plac'd a<g ref="char:EOLhyphen"/>mongſt the
+<hi>Stars,</hi> and their mighty Souls <hi>col<g ref="char:EOLhyphen"/>lected</hi> into their aſſigned Orbs.</p>
+            <p>Even the antient <hi>Patriarchs</hi> (who lived be<g ref="char:EOLhyphen"/>fore the <hi>Moſaic Inſtitution</hi>) paſſed away their <hi>numerous years</hi> in <hi>Sorrows</hi> and <hi>Pilgrimages, mighty Judgments,</hi> or <hi>Egyptian ſlavery:</hi> And about thoſe times (according to the beſt con<g ref="char:EOLhyphen"/>jectures of Eccleſiaſtical Authors) the <hi>righ<g ref="char:EOLhyphen"/>teous Job</hi> flouriſhed in his
+<hi>Afflictions,</hi> and now remains to all poſterity, a ſtupendious example of Religion and
+<hi>Miſery.</hi>
+            </p>
+            <p>Beſides, in the eſtabliſh'd oeconomy of the <hi>Jewiſh State</hi> (which though it was ſo full and pregnant of the happineſs of <hi>this world,</hi> that its <hi>Political appearance</hi> was nothing but the promiſe of a Temporal proſperity) yet we finde, that for the moſt part, amongſt the <hi>Jews,</hi> their <hi>ſtouteſt Leaders,</hi> beſt
+<hi>Kings,</hi> and nobleſt <hi>Prophets,</hi> were moſt ſeverely treated with
+<hi>Croſſes</hi> and ſharp <hi>Afflictions.</hi>
+            </p>
+            <p>And now, if the conſtancy, equanimity, and all the gallant worth of the beſt of
+<hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> the Righteouſneſs of the antient <hi>Pa<g ref="char:EOLhyphen"/>trianchs,</hi> the Valour, Wiſdom, and Integnity of the more renowned <hi>Jews,</hi> have been
+<pb n="15" facs="tcp:64903:11"/>ſignaliz'd and made conſpicuous chiefly by their <hi>Afflictions;</hi> ſurely <hi>Chriſtianity,</hi> which has plac'd <hi>Immortality</hi> in a <hi>fuller light,</hi> which has ſet an <hi>exceeding glory</hi> before us to animate our <hi>Contentions</hi> in
+<hi>Tribulation,</hi> and has given us an infallible aſſurance of that aſtoniſh<g ref="char:EOLhyphen"/>ment of Men and Angels, a <hi>Crucify'd God;</hi> ought in all natural reaſon to be productive of infinitely more <hi>illuſtrious effects</hi> under its <hi>ſeverer diſpenſation:</hi> eſpecially if we conſider, that there is not a <hi>Vertue</hi> propoſed to our <hi>Imitation</hi> through the
+<hi>whole life of our Savi<g ref="char:EOLhyphen"/>our,</hi> which has not for its appendage that which the Animal man calls <hi>Miſery,</hi> although it proves, in the event, the onely winging of the Soul, the higheſt <hi>exaltation</hi> of <hi>Humane Nature,</hi> which had never been honoured with the
+<hi>
+                  <g ref="char:V">Ʋ</g>nion of God,</hi> if it had not been in order to <hi>ſuffer.</hi>
+            </p>
+            <p>But yet <hi>Chriſtianity</hi> would be a ſtrange <hi>irrational</hi> Doctrine, and as eagerly derided as the Stoical Apathy, if from its <hi>Principles</hi> and <hi>Duties</hi> we ſhould endeavour to perſwade men that in <hi>Afflictions</hi> and Miſeries there was a
+<hi>ſenſitive pleaſure,</hi> or at leaſt no ſenſitive <hi>regret:</hi> Virtue and Piety do not charm us in<g ref="char:EOLhyphen"/>to
+<pb n="16" facs="tcp:64903:12"/>to a <hi>Lethargy,</hi> do not leſſen the Impreſſi<g ref="char:EOLhyphen"/>ons of
+<hi>Pain,</hi> or the reſentments of <hi>Injuries;</hi> they rather improve them, by how much the
+<hi>Temperate</hi> and the <hi>Intellectual</hi> are more <hi>keen</hi> and exquiſite in all their <hi>perceptions,</hi> than the Senſual and Debauched; ſo that the true Chriſtian is altogether as ſenſible and as con<g ref="char:EOLhyphen"/>ſcious of the <hi>Wounds</hi> and <hi>Indignities</hi> offered to his Nature, as the Voluptuous and the Re<g ref="char:EOLhyphen"/>vengeful; but he bears them with an entire ſubmiſſion to the <hi>Providence, Correction,</hi> or <hi>Tryal</hi> of his Heavenly Father, not onely without Murmurings, but with Joy,<note n="*" place="margin">2 Cor. 7.4.</note> ex<g ref="char:EOLhyphen"/>ceeding Joy, by reaſon of that <hi>Proſpect</hi> that is ſtill before him; a Proſpect, which ſhews the <hi>duration</hi> of his Miſery ſhort and vaniſhing, the <hi>Recompence</hi> of it immeaſurably great and Eternal. This was St. <hi>Paul</hi>'s <hi>comfort</hi> in the midſt of his<note n="*" place="margin">2 Cor. 11.</note> 
+               <hi>perils, fightings,</hi> and
+<hi>jeopardies;</hi> of his <hi>ſtripes, priſons,</hi> and <hi>deaths:</hi> when he was a
+<hi>Gladiator</hi> in the world in the behalf of Chriſt, a Spectacle and<note n="*" place="margin">1 Cor. 4.9.</note> 
+               <hi>Theatre</hi> to Men and Angels. Even our bleſſed Saviour him<g ref="char:EOLhyphen"/>ſelf was pleaſed to ſuſtain his <hi>ſuffering Hu<g ref="char:EOLhyphen"/>manity</hi> with the full Confidence and Ex<g ref="char:EOLhyphen"/>pectation of the<note n="*" place="margin">Heb. 12.2.</note> 
+               <hi>Joy</hi> that was ſet before
+<pb n="17" facs="tcp:64903:12"/>him; for then he <hi>deſpiſed the ſhame,</hi> and <hi>en<g ref="char:EOLhyphen"/>dured the Croſs,</hi> when he looked through the darkneſs of his Agony and Crucifixion, and beheld his<note n="*" place="margin">Eph. 1.20, 21.</note> 
+               <hi>Glorification</hi> above Principalities and Powers, his Exaltation at the right hand of God.</p>
+            <p>
+               <hi>Afflictions</hi> are thoſe <hi>ſtorms</hi> that ſix and ſtrengthen our
+<hi>Principles,</hi> that ſettle and ſe<g ref="char:EOLhyphen"/>cure our <hi>Fundamentals;</hi> that faſten our
+<hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> not on the complacencies of our <hi>Af<g ref="char:EOLhyphen"/>fections,</hi> and the accidental deliciouſneſs of a <hi>proſperous Piety;</hi> but on ſtrong <hi>reaſon,</hi> deep conſideration, and an invincible <hi>wiſdom</hi> in <hi>ſpiritual</hi> concerns. On theſe
+<hi>waves</hi> are we <hi>daſhed</hi> the nearer Heaven, till our <hi>Hope</hi> and our
+<hi>Faith</hi> advance into <hi>Hypoſtaſis,</hi> into the<note n="*" place="margin">Heb.
+11.1.</note> 
+               <hi>evidence</hi> of things not ſeen. Theſe are the <hi>two-edged ſwords,</hi> the <hi>ſharpneſſes</hi> that per<g ref="char:EOLhyphen"/>form the true <hi>Anatomy</hi> of the <hi>Chriſtian,</hi> that pierce and ſearch to the<note n="*" place="margin">Heb. 4.12.</note> 
+               <hi>dividing of Soul and Spirit, joynts and marrow,</hi> to the di<g ref="char:EOLhyphen"/>ſtinguiſhing of true <hi>Piety</hi> from
+<hi>Temper:</hi> for many ſpecious acts and offices in Religion, do oftentimes proceed more from
+<hi>Conſtitution</hi> than <hi>Precept;</hi> are not ſo much the certain effects of a ſteady
+<hi>Judgment,</hi> as the caſual
+<pb n="18" facs="tcp:64903:13"/>efforts of a warm Imagination; as 'tis not <hi>ſtrength</hi> and
+<hi>choice,</hi> but <hi>weakneſs</hi> and <hi>infirmi<g ref="char:EOLhyphen"/>ty,</hi> that makes a man <hi>Run,</hi> when he ſhould onely <hi>Walk;</hi> whereas, <hi>Afflictions</hi> prove us invincibly conſtant to our <hi>Reſolutions,</hi> and <hi>purſuit</hi> makes us cling to the <hi>Horns</hi> of the
+<hi>Altar.</hi>
+            </p>
+            <p>Beſides, they are <hi>Tryals</hi> which <hi>Hypocriſie</hi> can never ſtand; they pluck off its <hi>diſguiſe,</hi> and make it quit the <hi>Stage;</hi> they ſhake and ruffle the man till they diſcover a true <hi>vital Devotion</hi> from a <hi>Mechanick Impulſe;</hi> which, like the <hi>motion</hi> of a Paralytick, argues not <hi>progreſſion,</hi> but
+<hi>diſeaſe.</hi>
+            </p>
+            <p>They give us an exquiſite <hi>reliſh</hi> of thoſe <hi>Mercies</hi> we do enjoy, wean our
+<hi>Affections</hi> from the <hi>world,</hi> prevent our <hi>ſurfeits</hi> of
+<hi>pro<g ref="char:EOLhyphen"/>ſperity,</hi> and place us in a continual prepara<g ref="char:EOLhyphen"/>tion for <hi>Death:</hi> Moreover, what is not ſo commonly inſiſted on, they enlarge our <hi>Ex<g ref="char:EOLhyphen"/>perience,</hi> and give our
+<hi>Faculties</hi> a miraculous <hi>perfection.</hi> For, do but conſider what <hi>excel<g ref="char:EOLhyphen"/>lent diſcourſes</hi> are owing to the Pen of the <hi>Mourners?</hi> what Divine<note n="*" place="margin">Boeth.</note> 
+               <hi>Conſolations</hi> we have receiv'd from the damps and horrours of a Priſon? what<note n="*" place="margin">Lipſius.</note> 
+               <hi>conſtancy</hi> and peace of
+<pb n="19" facs="tcp:64903:13"/>mind from the incirclings of <hi>War?</hi> What <hi>Meditations</hi> from a
+<hi>Martyr'd King?</hi> as if mens <hi>underſtandings</hi> had been purg'd and <hi>refin'd</hi> by their <hi>Afflictions,</hi> and their <hi>faculties</hi> vex'd into <hi>Intuition:</hi> as 'tis obſerved of the more <hi>Intellectual Platoniſts,</hi> that by long <hi>faſtings,</hi> and frequent <hi>ſeverities,</hi> they raiſed themſelves unto thoſe <hi>Abſtractions</hi> and pure <hi>Idea's,</hi> which ſome men are not yet <hi>Dieted</hi> to apprehend: whereby they did in a manner reſemble thoſe <hi>Prophets</hi> of old, who receiv'd their
+<hi>Inſpira<g ref="char:EOLhyphen"/>tions,</hi> and delivered their <hi>Oracles</hi> in <hi>Tor<g ref="char:EOLhyphen"/>tures.</hi> Nay, perhaps the renowned <hi>wiſdom</hi> of <hi>ancient</hi> men is not ſo much extracted from long
+<hi>obſervations</hi> and repeated <hi>experiences,</hi> as from the Lectures of their
+<hi>Gout</hi> and <hi>Stone,</hi> as from thoſe <hi>infirmities</hi> which accompany their Age.</p>
+            <p>Neither do they give a <hi>perfection</hi> onely to mens <hi>natural powers,</hi> but more eſpecially an extraordinary <hi>advancement</hi> and <hi>ſupereminency</hi> to their
+<hi>Spiritual Capacities;</hi> making them<note n="*" place="margin">Heb. 12.10.</note>
+               <hi>partakers</hi> of <hi>Gods Holineſs.</hi> It muſt be confeſs'd, that many have very
+<hi>reſolutely</hi> un<g ref="char:EOLhyphen"/>dergone great and formidable <hi>Torments,</hi> even <hi>death</hi> it ſelf, in its moſt cruel and vileſt
+<pb n="20" facs="tcp:64903:14"/>cumſtances, out of falſe and unworthy <hi>Principles;</hi> ſuch as
+<hi>Phanatick Obſtinacy, Na<g ref="char:EOLhyphen"/>tional Cuſtom, Secular Gallantry,</hi> meer <hi>Sullen<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Stupidity, blind and miſguided Zeal,</hi> and what is more remarkable, even
+<hi>Jeſuiti<g ref="char:EOLhyphen"/>cal policy:</hi> but theſe ſpurious and <hi>equivocal examples</hi> are ſo palpably diſcerned from thoſe <hi>excellent perſons</hi> who have <hi>ſuffer'd</hi> in the be<g ref="char:EOLhyphen"/>half of the Religion of the <hi>Goſpel,</hi> with <hi>true Chriſtian meekneſs</hi> and
+<hi>patience,</hi> that they need not in the leaſt diſturb our <hi>preſent ar<g ref="char:EOLhyphen"/>gument:</hi> for had theſe falſe Martyrs that ge<g ref="char:EOLhyphen"/>neral conſpiration of <hi>Graces,</hi> which
+<hi>Afflicti<g ref="char:EOLhyphen"/>ons</hi> always produce in the truly <hi>Righteous?</hi> did they manifeſt in their
+<hi>demeanour</hi> and <hi>con<g ref="char:EOLhyphen"/>verſation</hi> that <hi>fruit</hi> of the <hi>Spirit</hi> ſumm'd up <hi>Gal.</hi> 5.22. <hi>viz. love, joy, peace, long-ſuffering, gentleneſs, goodneſs, faith, meekneſs,</hi> and <hi>tem<g ref="char:EOLhyphen"/>perance?</hi> if ſo, they could never have been enemies to
+<hi>Civil Government;</hi> they could never have <hi>ſcornfully</hi> rejected the humble ad<g ref="char:EOLhyphen"/>dreſſes of holy Confeſſours, and <hi>good men;</hi> have <hi>wilfully</hi> ſtifled the Evidences and con<g ref="char:EOLhyphen"/>victions of <hi>Truth;</hi> have deſign'd and acted <hi>barbarities,</hi> contrary to all <hi>natural juſtice, moral goodneſs,</hi> and <hi>heatheniſh civility.</hi> No,
+<pb n="21" facs="tcp:64903:14"/>the afflicted <hi>righteous</hi> man has no ſuch <hi>con<g ref="char:EOLhyphen"/>cerns</hi> upon
+<hi>earth;</hi> he leads a<note n="*" place="margin">Col. 3.3.</note> 
+               <hi>life hid with Chriſt in God,</hi> dwells in the Contemplations of <hi>Heaven,</hi> is exercis'd in pious <hi>Raptures,</hi> and incompaſs'd with the Miniſtry of <hi>Angels:</hi> his earneſt <hi>Devotions</hi> gather vigour and <hi>ac<g ref="char:EOLhyphen"/>cent</hi> from the <hi>acuteneſs</hi> of his <hi>pains,</hi> from the
+<hi>overwhelmings</hi> of <hi>an horrible dread;</hi> whilſt he conſiders and knows, that all his <hi>perſecuti<g ref="char:EOLhyphen"/>ons</hi> will ariſe into the <hi>enlargements</hi> of <hi>future happineſs,</hi> and his <hi>fiery tryals</hi> be <hi>purify'd</hi> into a <hi>glory</hi> round his head.</p>
+            <p>Where would have been the <hi>Annals</hi> of the <hi>Heroick?</hi> Where would have been victo<g ref="char:EOLhyphen"/>ries of <hi>Faith</hi> mention'd <hi>Hebrews</hi> the 11, if it had not been for <hi>Swords, Tyrannies, wild beaſts,</hi> for the numerous inventions of per<g ref="char:EOLhyphen"/>ſecuting <hi>malice?</hi> Hence have proceeded all thoſe Miracles of <hi>patience, courage, humility, reſignation;</hi> that
+<hi>inſpired complacency</hi> under <hi>Torments,</hi> ſuitable to what St.
+<hi>Chryſoſtome</hi> Rhetorically writes of the three Children in the Furnace,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, they <hi>expatiated</hi> there with as gay a <hi>freedom</hi> and re<g ref="char:EOLhyphen"/>laxation of mind, as they would, had they been on the <hi>plains</hi> of <hi>Meſopotomia,</hi> or walking in the <hi>gardens of the Eaſt.</hi>
+            </p>
+            <pb n="22" facs="tcp:64903:15"/>
+            <p>No <hi>Joy</hi> like to that of the <hi>Righteous</hi> under the glory of his Tribulations: How dead and vapid are all the Blandiſhments of the world to him, who is exercis'd in <hi>ſpiritual Agonies,</hi> in the <hi>Olympies</hi> of the <hi>Soul?</hi> who when <hi>Perſecution</hi> ceaſes, can yet obtain for himſelf a <hi>Crown of Martyrdom</hi> by ſtrict
+<hi>Ab<g ref="char:EOLhyphen"/>ſtinencies,</hi> holy <hi>Diſcipline,</hi> and the rigours of <hi>Mortification?</hi> That even by <hi>theſe methods</hi> can compleatly conquer and make innocent that Triumvirate of
+<hi>afflictions, Poverty, Diſ<g ref="char:EOLhyphen"/>grace,</hi> and <hi>Sickneſs,</hi> which the world hath dreſs'd in ſuch <hi>frightful repreſentations.</hi>
+            </p>
+            <p>For what relliſh can there be in the abun<g ref="char:EOLhyphen"/>dance of Riches to one, who has taſted the recollections of a <hi>Religious Poverty!</hi> who can be ſedate and divinely buſie amidſt the <hi>peeviſhneſs</hi> of Want, and with <hi>Socrates</hi> main<g ref="char:EOLhyphen"/>tain a deep and <hi>quiet Contemplation,</hi> with a <hi>Xantippe</hi> at his ear? who conſiders, how <hi>Poverty</hi> is a ſtate ſo <hi>tolerable,</hi> that it has been courted and choſen by many perſons, before ever any particular Providence had pointed out the Neceſſity, or laid the Conſtraint? A ſtate ſo <hi>commendable,</hi> that 'tis made one of the moſt ſolemn Vows of thoſe who at any
+<pb n="23" facs="tcp:64903:15"/>time engage themſelves in a <hi>Religious Order;</hi> that it was always
+<hi>recommended</hi> by men who were beſt able to give a true judgment of things, and had dedicated their lives to Wiſ<g ref="char:EOLhyphen"/>dom and Philoſophy. But above all, that 'tis ſanctifi'd and made
+<hi>Evangelical,</hi> by the <hi>Hiſtory</hi> and <hi>Example</hi> of our <hi>Bleſſed Saviour,</hi> who has not ſpoken a much <hi>harſher</hi> thing in his <hi>whole Goſpel,</hi> than what relates to a <hi>con<g ref="char:EOLhyphen"/>fidence</hi> in riches and great abundance; allow<g ref="char:EOLhyphen"/>ing onely a<note n="*" place="margin">Matth. 15.26.</note> 
+               <hi>bare poſſibility,</hi> a poſſibility with God,
+<hi>with whom all things are poſſible,</hi> for the refuge and <hi>ſalvation</hi> of the wealthy: as it were, not receiving them within the <hi>ordinary</hi> extenſions of his love and tenderneſs, but re<g ref="char:EOLhyphen"/>ferring them to the <hi>omnipotence,</hi> and <hi>laſt reach</hi> of his
+<hi>mercy.</hi>
+            </p>
+            <p>What are the acclamations of <hi>Fame,</hi> or the obloquies of <hi>Scorn</hi> to him, who conſi<g ref="char:EOLhyphen"/>ders how intoxicating a <hi>great Reputation</hi> is, how apt to raiſe Tumours in the
+<hi>imaginations</hi> of the <hi>beſt</hi> of men, and to tincture their re<g ref="char:EOLhyphen"/>flexions with pride and vain complacency? who calls to mind, that there is not uſually a more <hi>precarious</hi> thing on earth, than he who has been <hi>nurſed</hi> up with flatteries and ap<g ref="char:EOLhyphen"/>plauſes,
+<pb n="24" facs="tcp:64903:16"/>who has liv'd upon <hi>publick breath,</hi> and been the <hi>Idol</hi> of the admiring <hi>multitude;</hi> that ſuch an one is the <hi>Creature</hi> of every
+<hi>Hy<g ref="char:EOLhyphen"/>perbole;</hi> that he may be transform'd and fa<g ref="char:EOLhyphen"/>ſhion'd by every <hi>modiſh Epithite,</hi> and com<g ref="char:EOLhyphen"/>plemented into all the abſurdities of <hi>opinion</hi> and
+<hi>action:</hi> who ſadly reflects how the vo<g ref="char:EOLhyphen"/>luptuous and plauſible, with <hi>Herod</hi> in the<note n="*" place="margin">12.22.</note> 
+               <hi>Acts,</hi> are often panegyric'd to <hi>Death</hi> and <hi>Hell,</hi> by the officious <hi>Blaſphemies</hi> of the <hi>Rab<g ref="char:EOLhyphen"/>ble:</hi> who conſiders that an abuſed <hi>Reputati<g ref="char:EOLhyphen"/>on</hi> does often break more <hi>illuſtriouſly</hi> through a
+<hi>cloud of Infamy;</hi> and let whatever happen, yet a <hi>Blot</hi> on his <hi>name</hi> here, may give it a <hi>fairer Character</hi> in the <hi>ſight of Angels,</hi> and make it more
+<hi>legible</hi> in the <hi>Book of Life.</hi>
+            </p>
+            <p>Laſtly, it muſt be confeſs'd, that <hi>Health</hi> is an ineſtimable Bleſſing; that it was the chie<g ref="char:EOLhyphen"/>feſt of all <hi>Temporal Promiſes</hi> in the <hi>Old Teſta<g ref="char:EOLhyphen"/>ment,</hi> without which no <hi>other</hi> could have been <hi>enjoyed.</hi> But yet if we conſider what
+<hi>nouriſhment</hi> and fewel it often adminiſters to the <hi>groſſeſt ſenſualities,</hi> what dangerous <hi>temptations</hi> lie in the <hi>boſome</hi> of the
+<hi>healthful</hi> continually preſſing for admiſſion, and how greedily they are many times entertained by
+<pb n="25" facs="tcp:64903:16"/>thoſe who are <hi>ſtrong</hi> to undergo the <hi>labours of iniquity;</hi> we ſhall be apt to acknowledge that <hi>ſickneſs</hi> is a proper <hi>ſeaſon</hi> for the
+<hi>exerciſe</hi> and <hi>acquiſition</hi> of many <hi>graces,</hi> or at leaſt that 'tis a
+<hi>happy impotence,</hi> in reſpect of the moſt <hi>waſting vices</hi> we are ſubject to; that a <hi>firm conſtitution</hi> of <hi>mind</hi> is often wrought from the
+<hi>diſeaſes</hi> of the <hi>Body,</hi> and the <hi>Soul</hi> grows more <hi>active</hi> and
+<hi>refin'd,</hi> by ſtill working out its <hi>own ſeparation;</hi> that the <hi>mortal part</hi> of us, by a continual ſucceſſion of <hi>little diſſolutions,</hi> may be better prepar'd to drop with eaſe, and juſt maturity, into that <hi>final one</hi> of <hi>death;</hi> which, when it meets a man in the full Tyde of his <hi>proſperity,</hi> and the luxury of his
+<hi>Temper,</hi> with what <hi>confuſions</hi> it aſſaults his Triumphant minde, with what
+<hi>violence</hi> it rends his ſtrong ligaments of <hi>Life?</hi> No one will more readily part with his <hi>earthly Taber<g ref="char:EOLhyphen"/>nacle,</hi> than he that by <hi>indiſpoſitions</hi> and long
+<hi>ſickneſſes,</hi> has been taught the trouble of keeping it <hi>Tenantable;</hi> he will rejoyce to ſleep with his Fathers, to be eaſed of the <hi>ruines</hi> of <hi>Adam,</hi> the
+<hi>diſhonours</hi> of <hi>Original ſin,</hi> and to reſigne up his <hi>duſt and aſhes</hi> for <hi>Immortality,</hi> and a <hi>glorious form.</hi>
+            </p>
+            <pb n="26" facs="tcp:64903:17"/>
+            <p>Thus we have ſeen by what <hi>gracious</hi> arts, ſtrengths, and aſſiſtances,
+<hi>Afflictions</hi> may not onely be <hi>patiently</hi> born by the <hi>Religious,</hi> but alſo improv'd into <hi>real comforts,</hi> and height<g ref="char:EOLhyphen"/>ned into all <hi>natural</hi> and <hi>ſpiritual advantages;</hi> and this may be done, not onely by perſons in their <hi>private concerns,</hi> but alſo in their <hi>re<g ref="char:EOLhyphen"/>lative</hi> and <hi>publick capacities,</hi> and as they con<g ref="char:EOLhyphen"/>ſtitute a
+<hi>Church</hi> or <hi>Nation:</hi> which brings me to my <hi>ſecond General,</hi> viz.</p>
+            <p n="2">II. Briefly to <hi>conſider what advantage Af<g ref="char:EOLhyphen"/>flictions bring to Religion, as they reſpect a Church or Nation.</hi>
+            </p>
+            <p>Thoſe narrow Reaſoners, who, meaſuring <hi>Divine Providence</hi> by the modes of
+<hi>humane inſpection,</hi> thought it <hi>trivial</hi> and <hi>perplexing</hi> for it to direct every <hi>Ordinary Agent,</hi> and to mingle its <hi>concourſe</hi> with <hi>particulars;</hi> have notwithſtanding been very generous and li<g ref="char:EOLhyphen"/>beral, in allowing a conſtant and ample ſu<g ref="char:EOLhyphen"/>perintendency over <hi>Churches</hi> and <hi>Nations:</hi> and that there might be nothing wanting to the <hi>magnificence</hi> of <hi>Providence</hi> in their Go<g ref="char:EOLhyphen"/>vernment, have ſuper-added peculiar <hi>Stars</hi> and <hi>Angels</hi> for ſubordinate miniſtrations. What appropriate Schemes of Government
+<pb n="27" facs="tcp:64903:17"/>God Almighty is pleas'd to eſtabliſh to him<g ref="char:EOLhyphen"/>ſelf in his preſiding over thoſe <hi>greater Bodies,</hi> is no mans Province to inquire, nor within his capacity to declare; but however, this we may be certain of, and it has been con<g ref="char:EOLhyphen"/>firm'd by the experience of all Ages, that <hi>ordinarily Nations</hi> may expect their <hi>proſpe<g ref="char:EOLhyphen"/>rous</hi> or their adverſe <hi>ſeaſons,</hi> according as their <hi>Virtues</hi> or their <hi>Vices</hi> ſhall exceed.</p>
+            <p>And although <hi>proſperity</hi> be the Vote of Nature, the thirſt and inſtinct of the Soul, inſomuch that <hi>Iſaiah</hi> brings in the <hi>Jews</hi> beg<g ref="char:EOLhyphen"/>ging a <hi>kind couſenage</hi> from their Prophets,<note n="*" place="margin">Eſay. c. 30 v. 10.</note> 
+               <hi>Speak unto us ſmooth things, propheſie deceits;</hi> Torment us no longer with your
+<hi>Deſolations</hi> and <hi>Captivities,</hi> thoſe prodigies of a diſtem<g ref="char:EOLhyphen"/>per'd ſleep, but let your <hi>Dreams</hi> be a <hi>con<g ref="char:EOLhyphen"/>tinued Pageantry of Heaven,</hi> and all your
+<hi>Viſions</hi> a <hi>Shechinah:</hi> I ſay, although this be the univerſal voice of Mankind, and that with the <hi>Iſraelites,</hi> we luſt for a <hi>Canaan</hi> in the very
+<hi>wilderneſs,</hi> are calling for new <hi>luxuries</hi> of <hi>mercy,</hi> whilſt we are deſpiſing the for<g ref="char:EOLhyphen"/>mer; yet the Lord <hi>graciouſly</hi> hears our Pray<g ref="char:EOLhyphen"/>ers, and grants us a
+<hi>denyal;</hi> knowing, that in plenty and eaſe, we are apt to forget our
+<pb n="28" facs="tcp:64903:18"/>Maker; but when he <hi>ſmites</hi> us, we <hi>turn back,</hi> we
+<hi>ſeek</hi> him, we <hi>inquire</hi> of him; we publiſh <hi>Faſts by Law,</hi> transfer our
+<hi>Policies</hi> into <hi>Pie<g ref="char:EOLhyphen"/>ty,</hi> and make the depths of <hi>Empire</hi> ſerve
+<hi>Religion:</hi> even ſo the appearance of a <hi>Comet</hi> improves <hi>Aſtronomy,</hi> better than all the <hi>ordi<g ref="char:EOLhyphen"/>nary</hi> motions of the <hi>Stars</hi> and <hi>Planets;</hi> and the
+<hi>Sun</hi> invites more eyes towards <hi>Heaven</hi> by sits <hi>Eclipſe,</hi> than by its
+<hi>conſtant ſplendour.</hi>
+            </p>
+            <p>The certain viciſſitude of <hi>ſins</hi> and <hi>judg<g ref="char:EOLhyphen"/>ments, mercies</hi> and
+<hi>provocations,</hi> hath in a manner render'd all <hi>Church-Hiſtory</hi> but
+<hi>Repe<g ref="char:EOLhyphen"/>tition</hi> and <hi>Tautology:</hi> Thus God dealt with the <hi>ancient Jews,</hi> thus with the <hi>firſt Chri<g ref="char:EOLhyphen"/>ſtians,</hi> and ſo he continues to deal <hi>with us:</hi> and although we cannot without deteſtation and amazement recal thoſe<note n="*" place="margin">Pſal. 106.</note> 
+               <hi>numerous ingra<g ref="char:EOLhyphen"/>titudes</hi> of <hi>Iſrael,</hi> committed within the ſpace of <hi>forty</hi> or <hi>fifty years;</hi> yet if we reflect on our own
+<hi>Chronicle,</hi> within near the ſame cir<g ref="char:EOLhyphen"/>cuit of time, we ſhall be apt to conclude the
+<hi>Jews</hi> but <hi>puny ſinners,</hi> as the <hi>horrour</hi> of <hi>Regicide</hi> ſeems to leſſen the <hi>guilt</hi> of <hi>Murder:</hi> for did not the <hi>memories</hi> and obligations of our Fathers, immediately <hi>cool</hi> upon almoſt as great a <hi>deliverance,</hi> as the
+<hi>Miracle</hi> of the
+<pb n="29" facs="tcp:64903:18"/>
+               <hi>Read-ſea?</hi> and did not we within a while af<g ref="char:EOLhyphen"/>ter <hi>murmur</hi> and
+<hi>rebel</hi> againſt <hi>Moſes</hi> and <hi>Aaron,</hi> the beſt <hi>Monarchy,</hi> and the beſt <hi>Hierarchy?</hi> and in that <hi>Interregnum,</hi> when our King was but gone into the
+<hi>midſt of the Cloud,</hi> to learn <hi>Afflictions,</hi> and to <hi>commune</hi> with <hi>the Lord;</hi> did not ſome of us ſet up a <hi>Calf</hi> in <hi>Horeb,</hi> and <hi>worſhip</hi> that <hi>molten Image?</hi> when we were brought into the <hi>promiſed Country,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with the <hi>ſecret,</hi> but moſt <hi>power<g ref="char:EOLhyphen"/>ful hand</hi> of
+<hi>Providence,</hi> did we not run <hi>af<g ref="char:EOLhyphen"/>ter the Counſels of Balac,</hi> and <hi>commit Whore<g ref="char:EOLhyphen"/>dom with the Daughters of Moah?</hi> and has not the Lord <hi>viſited</hi> for this
+<hi>too,</hi> with as great a <hi>Plague?</hi> and, having now a while enjoyed the <hi>lots</hi> and <hi>diviſions</hi> of our <hi>Inheri<g ref="char:EOLhyphen"/>tance,</hi> are not ſome amongſt us <hi>erecting Al<g ref="char:EOLhyphen"/>tars</hi> on <hi>high places,</hi> ſerving <hi>Baal</hi> and <hi>Aſhta<g ref="char:EOLhyphen"/>roth,</hi> and returning to the <hi>antient Idolatry</hi> of the <hi>Land?</hi> Theſe are our <hi>parallel provocations</hi> with <hi>Iſrael,</hi> and ſhall not our <hi>judgments</hi> be
+<hi>greater?</hi> even in this our <hi>Land,</hi> our <hi>ſins</hi> are become our ſevereſt
+<hi>Executioners;</hi> for do not <hi>Hereſie</hi> and <hi>Schiſm, prophaneneſs</hi> and
+<hi>hypocriſle,</hi> like the <hi>four winds</hi> in the deſ<g ref="char:EOLhyphen"/>cription of a <hi>Tempeſt, blow all together!</hi> inſo<g ref="char:EOLhyphen"/>much,
+<pb n="30" facs="tcp:64903:19"/>much, that we may paint <hi>our Church,</hi> like the <hi>Planetary figure,</hi> with a <hi>dart</hi> in every <hi>limb;</hi> for its <hi>whole body</hi> now appears onely a <hi>larger conſtellation of Wounds.</hi>
+            </p>
+            <p>Wherefore now is the proper and <hi>advan<g ref="char:EOLhyphen"/>tageous ſeaſon,</hi> nobly to maintain the
+<hi>Purity</hi> of our <hi>Faith,</hi> and to defend the <hi>wiſdom</hi> of our
+<hi>Diſcipline;</hi> to lay aſide all peeviſh <hi>Principles,</hi> and <hi>ſullen Separations;</hi> to <hi>con<g ref="char:EOLhyphen"/>ſpire</hi> in nothing but <hi>mutual Charity</hi> and <hi>pub<g ref="char:EOLhyphen"/>lick Love;</hi> to heighten our <hi>Devotions</hi> by <hi>numbers</hi> and <hi>ardency;</hi> to encompaſs and be<g ref="char:EOLhyphen"/>ſiege the <hi>mercy-ſeat</hi> of Heaven with importu<g ref="char:EOLhyphen"/>nity and <hi>holy violence.</hi>
+            </p>
+            <p>Now let our <hi>witty Gallants</hi> leave off their fooliſh <hi>Jeſtings,</hi> and irrational <hi>Scepticiſm,</hi> their <hi>cuſtomary,</hi> if not <hi>malicious levity</hi> in
+<hi>Sa<g ref="char:EOLhyphen"/>cred</hi> things; and with their <hi>ſolid Anceſtors,</hi> grow wife and ſevere in their <hi>Converſation,</hi> faithful and friendly in their <hi>ordinary dea<g ref="char:EOLhyphen"/>lings,</hi> generous and brave in their <hi>publick Actions,</hi> manly and ſolemn in their <hi>Reli<g ref="char:EOLhyphen"/>gious Duties.</hi> Let our <hi>Magiſtrates</hi> aſſume an <hi>Heroical ſpirit,</hi> and
+<hi>dare</hi> to be <hi>righteous</hi> where the <hi>wicked proſper;</hi> let them with
+<hi>wiſdom, integrity,</hi> and <hi>zeal,</hi> execute Juſtice
+<pb n="31" facs="tcp:64903:19"/>and <hi>Judgment</hi> in this our Land, and then the <hi>Lord</hi> will
+<hi>withdraw his:</hi> for who can tell but that the <hi>courageous</hi> and <hi>fervent Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> like<note n="*" place="margin">Pſal. 106. v. 30.</note> 
+               <hi>Phinehas</hi> amongſt the <hi>Jews,</hi> may even <hi>now</hi> remove a <hi>National Calamity</hi> with his
+<hi>Javelin,</hi> with his <hi>ſpeedy</hi> and <hi>zealous</hi> execution? Let our
+<hi>Princes</hi> be cloathed with <hi>Sackcloth,</hi> and for a while make their <hi>Thrones</hi> in the <hi>duſt:</hi> Let our <hi>Prieſts</hi> be deck'd with <hi>Righteouſneſs, Courage,</hi> and the <hi>preparations</hi> of <hi>Martyrdon;</hi> let them rejoyce to be made an
+<hi>Anathema</hi> for our <hi>Church,</hi> and to <hi>bleſs</hi> our <hi>Nation</hi> through the midſt of their <hi>flames.</hi>
+            </p>
+            <p>And now to ſum up all our fore-going diſcourſe as briefly as we can.</p>
+            <p n="1">1. Let the bold and <hi>proſperous ſinner,</hi> who after many <hi>afflicting Calls</hi> to Repentance, continues ſtill to ſin on with an <hi>high hand,</hi> let him with fear and trembling conclude, that his <hi>Impunity</hi> now proceeds from Gods <hi>greateſt vengeance,</hi> and the not <hi>Afflicting</hi> of him any <hi>more,</hi> from the very
+<hi>fury</hi> of his <hi>wrath</hi> and <hi>indignation;</hi> as thoſe Arrows flie
+<hi>ſwifteſt</hi> which flie <hi>inviſible;</hi> and we often <hi>miſs</hi> the
+<hi>blow,</hi> by the <hi>exceſs</hi> of anger. Let the ob<g ref="char:EOLhyphen"/>ſtinate Atheiſt, who will not be reform'd by
+<pb n="32" facs="tcp:64903:20"/>
+               <hi>preſent judgments,</hi> but even after <hi>melting</hi> be<g ref="char:EOLhyphen"/>comes nothing but <hi>droſs;</hi> that <hi>asks who the Lord is;</hi> after ſo many <hi>plagues</hi> of
+<hi>Conviction,</hi> let him know, that he wants but <hi>few degrees</hi> of being reduc'd unto the utmoſt <hi>Analyſis</hi> of <hi>hardning,</hi> of being <hi>conſummated</hi> into the
+<hi>con<g ref="char:EOLhyphen"/>ſtitution</hi> of the <hi>damn'd,</hi> the <hi>eternal glaſs of Hell-fire.</hi>
+            </p>
+            <p n="2">II. Let the <hi>Afflicted righteous man rejoyce,</hi> that his <hi>infirmities</hi> explore the ſtrengths of Heaven; that by his <hi>Tryals</hi> is manifeſted the Victory of
+<hi>Faith,</hi> the <hi>omnipotence</hi> of <hi>grace.</hi> That 'tis the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. St. Chryſ.</note> 
+               <hi>buſineſs of Afflictions to create in him a due conſideration, hearty contrition, ſtrong cryes, increaſe of reverence,</hi> and
+<hi>the in<g ref="char:EOLhyphen"/>largements of Piety.</hi>
+            </p>
+            <p n="3">III. And let us of this <hi>Church and Nation</hi> conſider, that as we certainly are (and with<g ref="char:EOLhyphen"/>out <hi>oſtentation</hi> or any <hi>ſecular intereſt</hi> be it ſpoken) the moſt <hi>perfect,</hi> and the <hi>ſincereſt part</hi> of the <hi>Catholick Church</hi> now
+<hi>exiſtent,</hi> ſo we truſt that 'tis the <hi>particular indulgence</hi> of Almighty God to keep us up to this our <hi>re<g ref="char:EOLhyphen"/>finement,</hi> by <hi>conſtant perſecutions:</hi> to correct and abate our <hi>perſonal defects,</hi> but to <hi>confirm</hi> and make our <hi>Doctrines</hi> more <hi>Illuſtrious,</hi> by
+<pb n="33" facs="tcp:64903:20"/>the implacable oppoſitions of <hi>Phanatick rage,</hi> and <hi>Jeſuitical malice:</hi> and if we far<g ref="char:EOLhyphen"/>ther reflect on that unparallel'd <hi>wiſdome, learning,</hi> and
+<hi>moderation;</hi> that moſt rational and ſubſtantial <hi>Piety, Charity,</hi> and
+<hi>Devotion,</hi> which integrate the <hi>conſtitution</hi> of our <hi>Church,</hi> we ſhall be ready to acknowledge it highly expedient, that, with St. <hi>Paul,</hi> we ſhould have a
+<hi>Thorn in the fleſh,</hi> and be often under the <hi>buffetings of Satan,</hi> the
+<hi>deſigns</hi> and <hi>attempts</hi> of unreaſonable and malicious adverſaries; leſt we ſhould be <hi>exalted above meaſure with our ſuper-eminency</hi> of Doctrine; leſt we ſhould be <hi>puff'd up</hi>
+               <note n="*" place="margin">2 Cor. 12.7.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<hi>with our abundance of Revelation.</hi>
+            </p>
+            <p>And let our <hi>Enemies</hi> now deſtroy our <hi>City,</hi> let them burn down our
+<hi>Temples;</hi> if we cannot ſing <hi>Praiſes</hi> under their <hi>Roofs,</hi> we will
+<hi>Repent</hi> under their <hi>Aſhes;</hi> we will meet in Dens and Caves of the Earth, and by thoſe <hi>obſcurities,</hi> thoſe <hi>ſtealths</hi> of <hi>Worſhip,</hi> render our Religion more <hi>Apoſtolical,</hi> more <hi>Primitive.</hi> Yet will we ſet our <hi>Moſes in the gap,</hi> to ſee if peradventure the <hi>Lord</hi> too will <hi>Repent,</hi> and turn away his <hi>Diſpleaſure</hi> from us; to this end we will <hi>humble</hi> and
+<pb n="34" facs="tcp:64903:21" rendition="simple:additions"/>proſtrate our ſelves, grow <hi>Pioneers</hi> in <hi>De<g ref="char:EOLhyphen"/>votion,</hi> and <hi>countermine</hi> them with our <hi>Prayers;</hi> and ſhould the <hi>Deſtroying Angel</hi> be already come forth, ſhould <hi>Judgments</hi> be already <hi>Commiſſion'd</hi> for our <hi>Ruine,</hi> yet will we pray againſt <hi>Decree,</hi> againſt
+<hi>Predeſtina<g ref="char:EOLhyphen"/>tion</hi> it ſelf; and<note n="*" place="margin">Mar. 26.39.</note> 
+               <hi>Lord, if it be poſſible, let this Cup paſs from us!</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
